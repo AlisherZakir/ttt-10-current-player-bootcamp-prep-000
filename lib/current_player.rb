@@ -1,3 +1,3 @@
 def turn_count(board)
-  board.reduce()
+  board.reduce |
 end
