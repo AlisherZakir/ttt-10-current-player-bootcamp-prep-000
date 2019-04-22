@@ -1,3 +1,3 @@
 def turn_count(board)
-  board.reduce {|count, place| }
+  board.reduce(0) {|count, place| }
 end
